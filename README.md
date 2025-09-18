@@ -4,6 +4,10 @@ A beautiful Android app built with Jetpack Compose that offers a collection of f
 
 📱 App Preview
 
+<img width="673" height="1503" alt="image" src="https://github.com/user-attachments/assets/29c5e51e-0881-4d94-bd6d-aa947c6f942a" />
+
+<img width="684" height="1504" alt="image" src="https://github.com/user-attachments/assets/a1c61340-521f-45b3-9b45-3be930e1f40b" />
+
 
 ✨ Features
 🎰 Lottery Game: Try your luck with a lottery number generator
