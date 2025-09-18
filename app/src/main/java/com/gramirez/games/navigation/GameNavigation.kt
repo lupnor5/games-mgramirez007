@@ -96,7 +96,7 @@ fun GameNavigation() {
             val appBarTitle = when(currentRoute) {
                 "lottery" -> "Classic Lottery"
                 "guess" -> "Guess the number"
-                "horoscope" -> "Read your horoscope"
+                "horoscope" -> "Check your daily horoscope"
                 else -> "Games and more..."
             }
 
