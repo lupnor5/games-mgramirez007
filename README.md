@@ -4,7 +4,10 @@ A beautiful Android app built with Jetpack Compose that offers a collection of f
 
 📱 App Preview
 
-<img width="673" height="1503" alt="image" src="https://github.com/user-attachments/assets/29c5e51e-0881-4d94-bd6d-aa947c6f942a" />
+<img width="469" height="1053" alt="image" src="https://github.com/user-attachments/assets/ced43918-a953-4fab-a974-d6d5b72e96fd" />
+
+
+<img width="472" height="1051" alt="image" src="https://github.com/user-attachments/assets/a30e6bd6-e286-43cd-9729-07bf5d075ec3" />
 
 
 ✨ Features
