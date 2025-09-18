@@ -47,22 +47,6 @@ Tap "Horoscope" to check your daily horoscope
 
 Enjoy the games and animations!
 
-🏗️ Project Structure
-text
-src/
-├── main/
-│   ├── java/com/gramirez/games/
-│   │   ├── screen/
-│   │   │   ├── MainScreen.kt    # Main menu with game options
-│   │   │   ├── LotteryScreen.kt # Lottery game implementation
-│   │   │   ├── GuessScreen.kt   # Number guessing game
-│   │   │   └── HoroscopeScreen.kt # Horoscope feature
-│   │   ├── navigation/
-│   │   │   └── GameNavigation.kt      # Navigation setup
-│   │   └── MainActivity.kt      # App entry point
-│   └── res/
-│       ├── raw/                 # Lottie animation files
-│       └── ...
 🔧 Requirements
 Android Studio Flamingo (2022.2.1) or newer
 
