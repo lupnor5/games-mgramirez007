@@ -8,15 +8,15 @@ A beautiful Android app built with Jetpack Compose that offers a collection of f
 
 ## ✨ Features
 
-### 🎰 Lottery Game: Try your luck with a lottery number generator
+  - 🎰 Lottery Game: Try your luck with a lottery number generator
 
-### 🔢 Guess the Number: Test your intuition by guessing random numbers
+  - 🔢 Guess the Number: Test your intuition by guessing random numbers
 
-### ♊ Horoscope: Discover your daily horoscope predictions
+  - ♊ Horoscope: Discover your daily horoscope predictions
 
-### 🎨 Beautiful UI: Modern Material Design 3 interface with Lottie animations
+  - 🎨 Beautiful UI: Modern Material Design 3 interface with Lottie animations
 
-### 🧭 Navigation: Smooth navigation between different game screens
+  - 🧭 Navigation: Smooth navigation between different game screens
 
 ## 🛠️ Built With
 
@@ -55,11 +55,11 @@ git clone git@github.com:lupnor5/games-mgramirez007.git
 
 ## 🔧 Requirements
 
-....* Android Studio Flamingo (2022.2.1) or newer
+  * Android Studio Flamingo (2022.2.1) or newer
 
-....* Android SDK 24+
+  * Android SDK 24+
 
-....* Kotlin 1.8.0+
+  * Kotlin 1.8.0+
 
 ## 📄 License
 text
@@ -69,16 +69,18 @@ Copyright 2023 Gramirez Games
 Contributions, issues and feature requests are welcome! Feel free to check issues page.
 
 ## 📞 Contact
+
 Guadalupe Ramirez - lupnor5@gmail.com
 
 Project Link: [games-mgramirez007](https://github.com/lupnor5/games-mgramirez007)
 
 ## 🙏 Acknowledgments
-....* Lottie animations by LottieFiles
 
-....* Icons from Material Design Icons
+  * Lottie animations by LottieFiles
 
-....* Inspired by various game implementations
+  * Icons from Material Design Icons
+
+  * Inspired by various game implementations
 
 ## ⭐️ Feel free to star this repository if you find it helpful!
 
