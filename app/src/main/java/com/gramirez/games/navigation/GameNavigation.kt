@@ -85,7 +85,7 @@ fun GameNavigation() {
                             scaffoldState.drawerState.close()
                         }
                     }
-                ) { Text ("Read your horoscope") }
+                ) { Text ("Check your daily horoscope") }
             }
         },
 
