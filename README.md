@@ -4,7 +4,7 @@ A beautiful Android app built with Jetpack Compose that offers a collection of f
 
 ## 📱 App Preview
 
-![Screen_recording_20250917_221910](https://github.com/user-attachments/assets/32ba91d3-236f-4b7f-9aaa-622bd2880bf2)
+[Screen_recording_20250917_221910](https://github.com/user-attachments/assets/32ba91d3-236f-4b7f-9aaa-622bd2880bf2)
 
 ## ✨ Features
 
@@ -82,5 +82,5 @@ Project Link: [games-mgramirez007](https://github.com/lupnor5/games-mgramirez007
 
   * Inspired by various game implementations
 
-## ⭐️ Feel free to star this repository if you find it helpful!
+#### ⭐️ Feel free to star this repository if you find it helpful!
 
