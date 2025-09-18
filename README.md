@@ -4,7 +4,7 @@ A beautiful Android app built with Jetpack Compose that offers a collection of f
 
 ## 📱 App Preview
 
-[Screen_recording_20250917_221910](https://github.com/user-attachments/assets/32ba91d3-236f-4b7f-9aaa-622bd2880bf2)
+https://github.com/user-attachments/assets/32286f4f-fd55-41de-b8f6-73a9d9a56f28
 
 ## ✨ Features
 
