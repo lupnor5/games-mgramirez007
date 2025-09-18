@@ -2,10 +2,6 @@
 
 A beautiful Android app built with Jetpack Compose that offers a collection of fun games including lottery, number guessing, and horoscope.
 
-## 📱 App Preview
-
-https://github.com/user-attachments/assets/32286f4f-fd55-41de-b8f6-73a9d9a56f28
-
 ## ✨ Features
 
   - 🎰 Lottery Game: Try your luck with a lottery number generator
