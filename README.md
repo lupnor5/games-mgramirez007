@@ -16,13 +16,13 @@ A beautiful Android app built with Jetpack Compose that offers a collection of f
 
 ## 🛠️ Built With
 
-1. Jetpack Compose - Modern declarative UI toolkit
+  * Jetpack Compose - Modern declarative UI toolkit
 
-2. Lottie - For beautiful animations
+  * Lottie - For beautiful animations
 
-3. Navigation Component - For screen navigation
+  * Navigation Component - For screen navigation
 
-4. Material Design 3 - For modern UI components
+  * Material Design 3 - For modern UI components
 
 ## 📦 Installation
 
@@ -58,10 +58,11 @@ git clone git@github.com:lupnor5/games-mgramirez007.git
   * Kotlin 1.8.0+
 
 ## 📄 License
-text
+
 Copyright 2023 Gramirez Games
 
 ## 🤝 Contributing
+
 Contributions, issues and feature requests are welcome! Feel free to check issues page.
 
 ## 📞 Contact
